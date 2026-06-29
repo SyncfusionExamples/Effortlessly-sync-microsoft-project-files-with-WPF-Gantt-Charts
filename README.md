@@ -39,12 +39,12 @@ This repository contains sample code demonstrating how to effortlessly sync Micr
 
 4. Run the application.
 
-## License
-
-Syncfusion has no liability for any damage or consequence that may arise from using or viewing the samples. The samples are for demonstrative purposes. If you choose to use or access the samples, you agree to not hold Syncfusion liable, in any form, for any damage related to use, for accessing, or viewing the samples. By accessing, viewing, or seeing the samples, you acknowledge and agree Syncfusion’s samples will not allow you seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize, or otherwise do anything with Syncfusion’s samples.
-
 ## Related Links
 
 - [Explore WPF Gantt Chart](https://www.syncfusion.com/wpf-controls/gantt)
 - [Gantt Chart Feature Overview](https://help.syncfusion.com/wpf/gantt/overview)
 - [WPF Gantt Chart Getting Started Guide](https://help.syncfusion.com/wpf/gantt/getting-started)
+
+## License
+
+Syncfusion has no liability for any damage or consequence that may arise from using or viewing the samples. The samples are for demonstrative purposes. If you choose to use or access the samples, you agree to not hold Syncfusion liable, in any form, for any damage related to use, for accessing, or viewing the samples. By accessing, viewing, or seeing the samples, you acknowledge and agree Syncfusion’s samples will not allow you seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize, or otherwise do anything with Syncfusion’s samples.
