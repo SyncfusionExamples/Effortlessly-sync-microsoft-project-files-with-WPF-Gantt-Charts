@@ -1,5 +1,5 @@
 # Effortlessly-sync-microsoft-project-files-with-WPF-Gantt-Charts
-This repository contains sample code demonstrating how to effortlessly sync Microsoft Project with the WPF Gantt Control for enhanced project planning and visualization.
+This repository contains sample code demonstrating how to effortlessly sync Microsoft Project with the [WPF Gantt Control](https://www.syncfusion.com/wpf-controls/gantt) for enhanced project planning and visualization.
 
 ## Requirements to run the sample
 
@@ -38,6 +38,12 @@ This repository contains sample code demonstrating how to effortlessly sync Micr
 3. Clean and build the application.
 
 4. Run the application.
+
+## Related Links
+
+- [Explore WPF Gantt Chart](https://www.syncfusion.com/wpf-controls/gantt)
+- [Gantt Chart Feature Overview](https://help.syncfusion.com/wpf/gantt/overview)
+- [WPF Gantt Chart Getting Started Guide](https://help.syncfusion.com/wpf/gantt/getting-started)
 
 ## License
 
